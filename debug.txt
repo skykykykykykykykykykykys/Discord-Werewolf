@@ -1,0 +1,23 @@
+[2020-05-23 00:09:44.605268] [INFO] on_ready triggered!
+[2020-05-23 00:12:41.179333] [INFO] on_ready triggered!
+[2020-05-23 00:13:14.878784] [INFO] on_ready triggered!
+[2020-05-23 00:14:00.526070] [INFO] on_ready triggered!
+[2020-05-23 00:16:53.072280] [INFO] on_ready triggered!
+[2020-05-23 00:18:59.731240] [INFO] on_ready triggered!
+[2020-05-23 00:22:06.978981] [INFO] on_ready triggered!
+[2020-05-23 00:26:49.896002] [INFO] on_ready triggered!
+[2020-05-23 00:26:50.254228] **[ERROR]** <@195954094282637312> Could not find players role Players
+[2020-05-23 00:26:50.709158] **[ERROR]** <@195954094282637312> Could not find admins role Admins
+[2020-05-23 00:26:51.075958] **[WARNING]** Could not find Werewolf Notify role Werewolf Notify
+[2020-05-23 00:31:58.497884] [INFO] on_ready triggered!
+[2020-05-23 00:31:58.872486] [DEBUG] Players role id: 713443426095464520
+[2020-05-23 00:31:59.243959] [DEBUG] Admins role id: 701927484945334302
+[2020-05-23 00:31:59.618548] **[WARNING]** Could not find Werewolf Notify role Werewolf Notify
+[2020-05-23 00:33:18.105202] [INFO] on_ready triggered!
+[2020-05-23 00:33:18.549128] [DEBUG] Players role id: 713443426095464520
+[2020-05-23 00:33:18.951686] [DEBUG] Admins role id: 701927484945334302
+[2020-05-23 00:33:19.360097] [DEBUG] Werewolf Notify role id: 713444145418469496
+[2020-05-23 00:33:33.939851] [DEBUG] Parsing command play with parameters `` from skykykykykykykykykykykykykykys (195954094282637312)
+[2020-05-23 00:33:50.252224] [DEBUG] Parsing command ping with parameters `` from skykykykykykykykykykykykykykys (195954094282637312)
+[2020-05-23 00:34:01.341908] [DEBUG] Parsing command gamestart with parameters `` from skykykykykykykykykykykykykykys (195954094282637312)
+[2020-05-23 00:34:25.437572] [DEBUG] Parsing command firstjoin with parameters `` from skykykykykykykykykykykykykykys (195954094282637312)
